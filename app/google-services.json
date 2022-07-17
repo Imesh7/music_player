@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518107367408",
+    "project_id": "kotlinplayer-90049",
+    "storage_bucket": "kotlinplayer-90049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518107367408:android:c55e3985ef2062f0eabf35",
+        "android_client_info": {
+          "package_name": "com.imesh.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518107367408-gq2dstmp7on1cm3um4t63f7spqph9m09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb0xNY7PP5kaAos_GI4wdEcgYKpDzEjbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518107367408-gq2dstmp7on1cm3um4t63f7spqph9m09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
